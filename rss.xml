@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Blog - Terminal Control</title>
+        <link>https://blog.terminal-control.com</link>
+        <description>Musings from Terminal Control</description>
+        <item>
+            <title>Wot I Did 2025 - A Breakdown</title>
+            <link>https://blog.terminal-control.com/2026/wotididbreakdown.html</link>
+            <description>A look back on the year and the work that went into my end of year websites</description>
+        </item>
+    </channel>
+
+</rss>
