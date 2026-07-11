@@ -1,0 +1,20 @@
+/* Custom overrides for the blog site, layered on top of Bootstrap. */
+
+.post-content {
+    width: 100%;
+    max-width: 42rem;
+    margin-inline: auto;
+}
+
+.post-content img,
+.post-content video {
+    max-width: 100%;
+    height: auto;
+}
+
+.post-content pre,
+.post-content table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+}
